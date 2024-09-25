@@ -17,9 +17,11 @@ Para instalar e visualizar o projeto, siga as etapas abaixo:
    git clone https://github.com/thayannestella/att-optimustech-gp.git
    
 2. **Navegue até o diretório do projeto:**
+   ```bash
    cd att-optimustech-gp
    
-4. **Abra o arquivo index.html em seu navegador: Você pode clicar duas vezes no arquivo ou arrastá-lo para o seu navegador.**
+3. **Abra o arquivo index.html em seu navegador:**
+   Você pode clicar duas vezes no arquivo ou arrastá-lo para o seu navegador.
 
 
 ## Licença
